@@ -1,0 +1,12 @@
+{
+ "S01": {"name":"S01_hook","pos":"low","lines":[["Tonight, step outside","Tonight"],["and look up.","up."],["The Moon is gone.","gone."]]},
+ "S02": {"name":"S02_take","pos":"low","lines":[["You'd think, so what?","so what?"],["It's just a rock.","rock."],["It isn't.","isn't."],["It's Earth's clock,","clock,"],["lamp and anchor.","lamp|anchor."]]},
+ "S03": {"name":"S03_diwali","pos":"low","lines":[["First, your calendar","calendar"],["breaks.","breaks."],["Diwali falls","Diwali"],["on a new moon.","new moon."]]},
+ "S04": {"name":"S04_holi_rakhi","pos":"low","lines":[["Holi and","Holi"],["Raksha Bandhan","Raksha Bandhan"],["fall on a full one.","full"]]},
+ "S05": {"name":"S05_eid","pos":"low","lines":[["Eid waits","Eid"],["for a sighting.","sighting."],["Millions set their year","Millions"],["by a Moon","Moon"],["that's no longer there.","no longer"]]},
+ "S06": {"name":"S06_turtles","pos":"low","lines":[["Then the nights","nights"],["go truly dark.","dark."],["On Odisha's beaches,","Odisha's"],["Olive Ridley hatchlings","hatchlings"],["crawl toward","crawl"],["the brightest horizon...","brightest"]]},
+ "S07": {"name":"S07_turtle_map","pos":"low","lines":[["...to find the sea.","sea."],["Without that","Without"],["moonlit glow,","moonlit"],["city lights pull","city lights"],["more of them","more"],["the wrong way.","wrong"]]},
+ "S08": {"name":"S08_tides","pos":"low","lines":[["The oceans","oceans"],["go quiet too.","quiet"],["Tides shrink","shrink"],["to about a third.","a third."],["Mangroves and","Mangroves"],["tide pools","tide pools"],["lose their rhythm.","rhythm."]]},
+ "S09": {"name":"S09_tilt","pos":"low","lines":[["And slowly,","slowly,"],["over millions of years,","millions"],["Earth's tilt","tilt"],["could start to wobble,","wobble,"],["and our seasons","seasons"],["with it.","with it."]]},
+ "S10": {"name":"S10_payoff","pos":"low","tailTo":5.0,"lines":[["We call it","call"],["decoration.","decoration."],["It's been running","running"],["the planet","planet"],["the whole time.","whole time."]]}
+}
